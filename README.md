@@ -1,4 +1,5 @@
-#Landing Page 2.0
+# Landing Page 2.0
 
-#Link Projeto
-https://www.figma.com/file/EMulSvBnMkmO24fq8GMOhc/Landing-Pages?node-id=0%3A437
+## Link Projeto
+[Projeto no Figma]([https://link](https://www.figma.com/file/EMulSvBnMkmO24fq8GMOhc/Landing-Pages?node-id=0%3A437))
+
